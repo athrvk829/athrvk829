@@ -42,8 +42,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" height="300"/>
 </div>
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160"/>
+</p>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" height="300"/>
