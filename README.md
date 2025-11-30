@@ -7,15 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/atharva-kassa-3226b733b/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-kassa-3226b733b/" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/4tharv.k/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/4tharv.k/" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/atharvakassa01" target="_blank" rel="noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/atharvakassa01" height="30" width="40" />
-  </a>
+<a href="https://www.linkedin.com/in/atharva-kassa-3226b733b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/></a>
+<a href="https://www.instagram.com/4tharv.k/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"/></a>
+<a href="https://www.hackerrank.com/profile/atharvakassa01" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"/></a>
 </p>
 
 ---
@@ -44,13 +38,14 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" />
+    <img height="180" width="400" loading="lazy"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" />
+    <img height="180" width="400" loading="lazy"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" />
   </a>
 </p>
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" height="300"/>
