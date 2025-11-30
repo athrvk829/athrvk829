@@ -38,14 +38,10 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" />
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" />
-  </a>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=athrvk829&show_icons=true&theme=dark&hide_border=true" />&nbsp;&nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athrvk829&layout=compact&theme=dark&hide_border=true" />
 </p>
+
 
 
 <div align="center">
